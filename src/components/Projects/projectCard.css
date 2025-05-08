@@ -1,0 +1,8 @@
+.hide-on-small-screen {
+    display: block; /* Default display */
+  }
+@media (max-width: 768px) {
+.hide-on-small-screen {
+    display: none; /* Hide the second image on small screens */
+}
+}

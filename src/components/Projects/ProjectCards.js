@@ -1,13 +1,14 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
+import "./projectCard.css";
 
 
 function ProjectCards(props) {
   return (
     <Card className="project-card-view" style={{ textAlign: "center" }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <Card.Img variant="top" src={props.imgPath1} alt="card-img" style={{ width: "250px" }} />
-        <Card.Img variant="top" src={props.imgPath2} alt="card-img" style={{ width: "250px" }} />
+        <Card.Img variant="top" src={props.imgPath1} alt="card-img" style={{ width: "20rem" }} />
+        <Card.Img variant="top" src={props.imgPath2} alt="card-img" className="hide-on-small-screen"  style={{ width: "20rem" }} />
       </div>
       <Card.Body> 
         <Card.Title>{props.title}</Card.Title>
