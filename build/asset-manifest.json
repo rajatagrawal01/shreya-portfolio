@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.02c39288.js",
+    "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.5027c4b0a21a2e757e58.png",
+    "static/media/Shreya Agrawal.pdf": "/static/media/Shreya Agrawal.034a0b398e31e0269966.pdf",
+    "static/media/lowes.png": "/static/media/lowes.4cc255a0c768b0ecabaa.png",
+    "static/media/tcs.png": "/static/media/tcs.394765895ce0077930c1.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/salesforceLogo.png": "/static/media/salesforceLogo.f1e8ec9f7037857e996f.png",
+    "static/media/accenture.png": "/static/media/accenture.ef88cb60b4b544b6704d.png",
+    "static/media/seleniumLogo.png": "/static/media/seleniumLogo.af02469f7c04f69cb5cf.png",
+    "static/media/salesforce-lwc.png": "/static/media/salesforce-lwc.862811fa7fbec70a80a6.png",
+    "static/media/salescloud.png": "/static/media/salescloud.47fe2680d9bbde182766.png",
+    "static/media/ibm.png": "/static/media/ibm.835995f872d8bae3d84f.png",
+    "static/media/apex.png": "/static/media/apex.98a199ffaff3c5a1ca24.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/workbench-logo.png": "/static/media/workbench-logo.1af6964f08a43a4a893c.png",
+    "static/media/logo.png": "/static/media/logo.5e3ca3b44cf91a5a2391.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.02c39288.js.map": "/static/js/main.02c39288.js.map",
+    "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.02c39288.js"
+  ]
+}
