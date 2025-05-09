@@ -65,7 +65,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://drive.google.com/file/d/1yaT4OIy8ac-EyysGG-kAJmFec_AVG4ts/view?usp=sharing" // Replace with your resume link
+                  href="https://drive.google.com/file/d/16nczlxAu8UdCB_OoZqE-YMqVLToGWGkY/view?usp=sharing" // Replace with your resume link
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
